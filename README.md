@@ -2,6 +2,8 @@
 
 MSc thesis project, University of Galway.
 
+[![Demo video](https://img.youtube.com/vi/Pms9vi8M9Pk/hqdefault.jpg)](https://www.youtube.com/watch?v=Pms9vi8M9Pk)
+
 ## Overview
 
 Chinese hate speech in memes is often encoded through homophone substitution, character
